@@ -33,6 +33,7 @@ Profundizar los conceptos desarrollados en Introducción a los Sistemas Operativ
 
 ## Links a Resoluciones de Prácticas
 - [Práctica 1 - Kernel Linux](https://github.com/JoaquinManuelGonzalez/Sistemas-Operativos/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%201%20-%20Kernel%20Linux.pdf)
+- [Práctica 2 - Módulos, drivers y syscalls](https://github.com/JoaquinManuelGonzalez/Sistemas-Operativos/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%202%20-%20M%C3%B3dulos%2C%20Drivers%20y%20Syscalls.pdf)
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHYyYzYzOHo5MjZ6Mmt3NGhlN3Njb21lN3J5OXM3MXI0ZWV6MThoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xndHaRIcvge5y/giphy.gif" alt="The real Linus Torvalds" width="500" height="auto" loop>
