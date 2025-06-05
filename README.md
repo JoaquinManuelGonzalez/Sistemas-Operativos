@@ -37,6 +37,8 @@ Profundizar los conceptos desarrollados en Introducción a los Sistemas Operativ
 - [Práctica 3 - Threads](https://github.com/JoaquinManuelGonzalez/Sistemas-Operativos/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%203%20-%20Threads.pdf)
 - [Práctica 4A - cgroups y namespaces](https://github.com/JoaquinManuelGonzalez/Sistemas-Operativos/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%204A%20-%20cgroups%20%26%20namespaces.pdf)
 - [Práctica 4B - Docker y Docker compose](https://github.com/JoaquinManuelGonzalez/Sistemas-Operativos/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%204B%20-%20Docker%20y%20Docker%20Compose.pdf)
+- [Práctica 5A - Seguridad Parte 1](https://github.com/JoaquinManuelGonzalez/Sistemas-Operativos/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%205A%20-%20Seguridad%20Parte%201.pdf)
+- 
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHYyYzYzOHo5MjZ6Mmt3NGhlN3Njb21lN3J5OXM3MXI0ZWV6MThoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xndHaRIcvge5y/giphy.gif" alt="The real Linus Torvalds" width="500" height="auto" loop>
